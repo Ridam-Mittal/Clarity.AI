@@ -13,31 +13,26 @@ Clarity.AI is a mobile application built with React Native CLI that serves as an
 
 1. Clone the repository:
 
-   ```bash
-   git clone [https://github.com/Ridam-Mittal/Clarity.AI.git](https://github.com/Ridam-Mittal/Clarity.AI.git)
-   cd Clarity.AI
-   ```
+   `git clone https://github.com/Ridam-Mittal/Clarity.AI.git`
+   `cd Clarity.AI`
+
 2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+   `npm install`
+
 3. Create a `.env` file and add your Gemini API key:
 
-   ```
+   ``
    GEMINI_API_KEY="your_api_key_here"
-   ```
+   ``
+
 4. Run the app:
 
-   ```bash
-   npx react-native run-android
-   ```
+   `npx react-native run-android`
 
    or
 
-   ```bash
-   npx react-native run-ios
-   ```
+   `npx react-native run-ios`
 
 ## Tech Stack
 
@@ -47,6 +42,8 @@ Clarity.AI is a mobile application built with React Native CLI that serves as an
 
 ### Screenshots
 
-![Screenshot 1](assets/1.jpg)
-
-![Screenshot 2](assets/2.jpg)
+<p>
+  <img src="assets/1.jpg" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/2.jpg" width="300" />
+</p>
