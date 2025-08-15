@@ -13,34 +13,40 @@ Clarity.AI is a mobile application built with React Native CLI that serves as an
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Ridam-Mittal/Clarity.AI.git
-   cd Clarity.AI
-   ```
+   ```bash
+   git clone [https://github.com/Ridam-Mittal/Clarity.AI.git](https://github.com/Ridam-Mittal/Clarity.AI.git)
+   cd Clarity.AI
+   ```
 2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+   ```bash
+   npm install
+   ```
 3. Create a `.env` file and add your Gemini API key:
 
-   ```
-   GEMINI_API_KEY="your_api_key_here"
-   ```
+   ```
+   GEMINI_API_KEY="your_api_key_here"
+   ```
 4. Run the app:
 
-   ```bash
-   npx react-native run-android
-   ```
+   ```bash
+   npx react-native run-android
+   ```
 
-   or
+   or
 
-   ```bash
-   npx react-native run-ios
-   ```
+   ```bash
+   npx react-native run-ios
+   ```
 
 ## Tech Stack
 
 * React Native CLI
 * Google Generative AI SDK
 * react-native-markdown-display
+
+### Screenshots
+
+![Screenshot 1](assets/1.jpg)
+
+![Screenshot 2](assets/2.jpg)
